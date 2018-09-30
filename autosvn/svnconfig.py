@@ -8,7 +8,7 @@
  
 setting={
     'svn':'D:/application/svn1.7/bin/',#svn的程序所在路径
-    'interval':12000, # 更新时间，单位秒  这里设置6个小时更新一次
+    'interval':36000, # 更新时间，单位秒  这里设置6个小时更新一次
     'logFile': 'C:/GitRepository/auto/autosvn/logFile.txt', #　log文件放置位置
     'closeOption': ' /closeonend:2'
 }
