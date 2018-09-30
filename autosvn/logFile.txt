@@ -1,0 +1,21 @@
+
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/nw" /closeonend:2 --- Time 2018-09-30 14:21:07
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/ww" /closeonend:2 --- Time 2018-09-30 14:21:08
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/ww success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/文档" /closeonend:2 --- Time 2018-09-30 14:21:08
+SUCCESS: update D: /kitandtool/workspace/normal/文档 success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-blsp-nw" /closeonend:2 --- Time 2018-09-30 14:21:09
+SUCCESS: update D: /kitandtool/workspace/idea-blsp-nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/plate" /closeonend:2 --- Time 2018-09-30 14:21:09
+SUCCESS: update D: /kitandtool/workspace/normal/plate success******************************************************** update 
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/nw" /closeonend:2 --- Time 2018-09-30 14:21:18
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/ww" /closeonend:2 --- Time 2018-09-30 14:21:19
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/ww success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/文档" /closeonend:2 --- Time 2018-09-30 14:21:19
+SUCCESS: update D: /kitandtool/workspace/normal/文档 success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-blsp-nw" /closeonend:2 --- Time 2018-09-30 14:21:20
+SUCCESS: update D: /kitandtool/workspace/idea-blsp-nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/plate" /closeonend:2 --- Time 2018-09-30 14:21:20
+SUCCESS: update D: /kitandtool/workspace/normal/plate success******************************************************** update 
