@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2018/09/30 10:00
+# @Author  : dengchao
+# @Site    :
+# @File    : gitconfig.py
+# @Software: vscode
+
 from git import Repo
 # # 创建版本库对象
 # repo = Repo(r'C:\GitRepository\leetcode')

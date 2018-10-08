@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2018/09/30 10:00
+# @Author  : dengchao
+# @Site    :
+# @File    : gitconfig.py
+# @Software: vscode
+
 from git import Repo
 # # 创建版本库对象
 # repo = Repo(r'C:\GitRepository\leetcode')
@@ -12,7 +20,7 @@ from git import Repo
 from gitconfig import dist_lists, commit_lists
 
 for url in dist_lists:
-  print(url)
+  # print(url)
   repo = Repo(url)
   remote = repo.remote()
   remote.pull()
