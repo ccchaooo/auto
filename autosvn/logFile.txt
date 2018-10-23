@@ -420,4 +420,28 @@ Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/
 SUCCESS: update D: /kitandtool/workspace/normal/plate success
 Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-zljd-nw" /closeonend:2 --- Time 2018-10-18 09:22:35
 SUCCESS: update D: /kitandtool/workspace/idea-zljd-nw success
+******************************************************** next update /nExecute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/nw" /closeonend:2 --- Time 2018-10-23 09:28:48
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/ww" /closeonend:2 --- Time 2018-10-23 09:28:51
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/ww success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/文档" /closeonend:2 --- Time 2018-10-23 09:28:51
+SUCCESS: update D: /kitandtool/workspace/normal/文档 success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-blsp-nw" /closeonend:2 --- Time 2018-10-23 09:28:52
+SUCCESS: update D: /kitandtool/workspace/idea-blsp-nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/plate" /closeonend:2 --- Time 2018-10-23 09:28:52
+SUCCESS: update D: /kitandtool/workspace/normal/plate success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-zljd-nw" /closeonend:2 --- Time 2018-10-23 09:28:52
+SUCCESS: update D: /kitandtool/workspace/idea-zljd-nw success
+******************************************************** next update /nExecute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/nw" /closeonend:2 --- Time 2018-10-23 09:33:43
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-3jba/ww" /closeonend:2 --- Time 2018-10-23 09:33:44
+SUCCESS: update D: /kitandtool/workspace/idea-3jba/ww success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/文档" /closeonend:2 --- Time 2018-10-23 09:33:45
+SUCCESS: update D: /kitandtool/workspace/normal/文档 success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-blsp-nw" /closeonend:2 --- Time 2018-10-23 09:33:45
+SUCCESS: update D: /kitandtool/workspace/idea-blsp-nw success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/normal/plate" /closeonend:2 --- Time 2018-10-23 09:33:45
+SUCCESS: update D: /kitandtool/workspace/normal/plate success
+Execute TortoiseProc.exe /command:update /path:"D: /kitandtool/workspace/idea-zljd-nw" /closeonend:2 --- Time 2018-10-23 09:33:46
+SUCCESS: update D: /kitandtool/workspace/idea-zljd-nw success
 ******************************************************** next update /n

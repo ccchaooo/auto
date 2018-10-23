@@ -25,7 +25,9 @@ dist_lists = [  # 需要更新的folder路径列表
  "D: /kitandtool/workspace/normal/文档",
  "D: /kitandtool/workspace/idea-blsp-nw",
  "D: /kitandtool/workspace/normal/plate",
- "D: /kitandtool/workspace/idea-zljd-nw"
+ "D: /kitandtool/workspace/idea-zljd-nw",
+ "D:/kitandtool/workspace/idea-ggtest/ywxt",
+ "D:/kitandtool/workspace/idea-ggtest/ztyy"
 ]
 
 # distforcommit = [  # 需要提交的的folder路径列表
